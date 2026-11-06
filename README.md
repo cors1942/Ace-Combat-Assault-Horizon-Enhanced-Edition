@@ -200,3 +200,6 @@ This repository serves as the official landing page for Ace Combat Assault Horiz
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Ace Combat Assault Horizon today!**
+
+---
+**Last updated:** 2026-11-06 18:49:02 UTC
